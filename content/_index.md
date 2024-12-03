@@ -1,10 +1,8 @@
 +++
-title = "Hello"
+title= "Apollo Theme"
 template = "homepage.html"
-description = ""
 +++
 
-# about me
-i am a master tier jungler kayn abuser
+Thanks for checking out this theme!
 
-i am retired and now dedicate my life to programming and career development
+Checkout all the [options you can configure](./posts/configuration) and the [example pages](./tags/example/).

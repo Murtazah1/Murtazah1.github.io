@@ -1,0 +1,26 @@
+# The URL the site will be built for
+base_url = "https://Murtazah1.github.io"
+theme = "apollo"
+author = "Murtaza Husain"
+
+title = "Murtaza"
+taxonomies = [{ name = "tags" }]
+compile_sass = true
+
+build_search_index = false
+
+[markdown]
+
+[extra]
+# Put all your custom variables here
+theme = "auto"
+socials = [
+    {name = "github", url = "https://github.com/Murtazah1", icon="github" },
+]
+
+menu = [
+    {name = "/projects", url = "/projects", weight = 1},
+    {name = "/posts", url = "/posts", weight = 2},
+    {name = "/tags", url = "/tags", weight = 3},
+
+]

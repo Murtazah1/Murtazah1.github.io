@@ -1,11 +1,10 @@
 +++
-title = "Apollo"
-description = "Modern and minimalistic blog theme."
+title = "HackRice 14 Ai Project"
+description = "Ai project made using typescript/nextjs along with gpt-4o"
 weight = 1
 
 [extra]
-local_image = "/projects/project-1.jpg"
-link_to = "https://github.com/not-matthias/apollo"
+link_to = "https://github.com/Rinzyy/hackrice14"
 +++
 
 Example project page
